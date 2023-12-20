@@ -1,0 +1,15 @@
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/bin/Debug/net7.0/Random_Number
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/bin/Debug/net7.0/Random_Number.deps.json
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/bin/Debug/net7.0/Random_Number.runtimeconfig.json
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/bin/Debug/net7.0/Random_Number.dll
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/bin/Debug/net7.0/Random_Number.pdb
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.csproj.AssemblyReference.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.AssemblyInfoInputs.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.AssemblyInfo.cs
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.dll
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/refint/Random_Number.dll
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.pdb
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/Random_Number.genruntimeconfig.cache
+/Users/user/Projects/Find Cost of Tile to Cover W x L Floor/Random_Number/obj/Debug/net7.0/ref/Random_Number.dll
