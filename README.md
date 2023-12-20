@@ -1,0 +1,3 @@
+- User attempts to guess the random number
+- Program hint at the user if the close
+- User has 5 attempts at guessing the number 
